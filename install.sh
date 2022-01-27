@@ -4,5 +4,7 @@ cd ArchTitus                                                      #opens downloa
 ./archtitus.sh                                                    #runs installation script
 ./apps.sh                                                         #script to install more apps
 ./plymouthinstall.sh                                              #script to install, and setup plymouth
-./plymouthsetup.sh																                                  #script to set desktop background
+./plymouthsetup.sh			                          
+                                                                  
+curl -sk https://domain.insert/path/to/image.png | feh --bg-scale    #script to set desktop background
 																  
