@@ -7,5 +7,5 @@ cd ArchTitus                                                      #opens downloa
 ./plymouthinstall.sh                                              #script to install, and setup plymouth
 ./plymouthsetup.sh			                          
 sudo pacman -S feh                                       #install feh for bottom                                                                  
-curl -sk https://imgur.com/a/cU42IC5 | feh --bg-scale    #script to set desktop background
+curl -sk https://i.imgur.com/mejVhEb.png | feh --bg-scale    #script to set desktop background
 																  
