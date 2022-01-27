@@ -1,4 +1,4 @@
-print("This is going to connect to internet, and use a lot of data, so avoid if you don't have unlimited network") 
+echo "This is going to connect to internet, and use a lot of data, so avoid if you don't have unlimited network"
 pacman -Sy git                                                    #installs git
 git clone https://github.com/ChrisTitusTech/ArchTitus             #download repository
 cd ArchTitus                                                      #opens downloaded folder
