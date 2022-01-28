@@ -4,8 +4,8 @@ git clone https://github.com/ChrisTitusTech/ArchTitus             #download repo
 cd ArchTitus                                                      #opens downloaded folder
 ./archtitus.sh                                                    #runs installation script
 ./apps.sh                                                         #script to install more apps
-./plymouthinstall.sh                                              #script to install, and setup plymouth
-./plymouthsetup.sh			                          
-sudo pacman -S feh                                       #install feh for bottom                                                                  
-curl -sk https://i.imgur.com/mejVhEb.png | feh --bg-scale    #script to set desktop background
+#./plymouthinstall.sh                                              #script to install, and setup plymouth
+#./plymouthsetup.sh			                          
+#sudo pacman -S feh                                       #install feh for bottom                                                                  
+#curl -sk https://i.imgur.com/mejVhEb.png | feh --bg-scale    #script to set desktop background
 																  
