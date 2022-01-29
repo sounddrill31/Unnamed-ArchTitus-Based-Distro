@@ -1,4 +1,4 @@
-sudo pacman -Sy git
+pacman -Sy git
 git clone https://github.com/sounddrill31/Unnamed-ArchTitus-Based-Distro.git
-#cd Unnamed-ArchTitus-Based-Distro
-sudo bash /Unnamed-ArchTitus-Based-Distro/install.sh
+cd Unnamed-ArchTitus-Based-Distro
+sudo bash install.sh
