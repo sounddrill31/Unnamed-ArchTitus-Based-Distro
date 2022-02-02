@@ -3,7 +3,7 @@ pacman -Sy git                                                   #installs git
 git clone https://github.com/ChrisTitusTech/ArchTitus             #download repository
 cd ArchTitus                                                      #opens downloaded folder
 sudo bash archtitus.sh                                                    #runs installation script
-cd ..
+#cd ..
 #sudo bash apps.sh --yes                                                         #script to install more apps
 #./plymouthinstall.sh                                              #script to install, and setup plymouth
 #./plymouthsetup.sh			                          
